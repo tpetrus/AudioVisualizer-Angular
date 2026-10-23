@@ -1,3 +1,4 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 # ⛔️ __DEPRECATED: This repo will no longer be updated as of 10/23/2026.__
 Please use [the version rebuilt in React](https://github.com/tpetrus/AudioVisualizer-React)
 
