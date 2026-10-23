@@ -1,7 +1,6 @@
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 # ⛔️ __DEPRECATED: This repo will no longer be updated as of 10/23/2026.__
-Please use [the official version rebuilt in React](https://github.com/tpetrus/AudioVisualizer)
-
+## 🆕 Please use [the official version rebuilt in React](https://github.com/tpetrus/AudioVisualizer)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
 ### Development server
